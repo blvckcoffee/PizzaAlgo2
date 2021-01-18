@@ -1,3 +1,4 @@
 1. Decide which business to order from.
 2. Call the restaurant and place an order.
-3. Provide payment information.
+3. Provide payment information and address.
+4. Await pizza delivery driver.
