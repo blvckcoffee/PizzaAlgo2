@@ -4,3 +4,4 @@
 4. Await pizza delivery driver.
 5. Receive pizza at door.
 6. Eat the pizza.
+7. Take pizza box to trash.
