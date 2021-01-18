@@ -2,3 +2,5 @@
 2. Call the restaurant and place an order.
 3. Provide payment information and address.
 4. Await pizza delivery driver.
+5. Receive pizza at door.
+6. Eat the pizza.
